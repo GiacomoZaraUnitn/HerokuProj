@@ -1,0 +1,26 @@
+{
+  "name": "herokuproj",
+  "version": "1.0.0",
+  "description": "heroku project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiacomoZaraUnitn/HerokuProj.git"
+  },
+  "author": "Giacomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiacomoZaraUnitn/HerokuProj/issues"
+  },
+  "homepage": "https://github.com/GiacomoZaraUnitn/HerokuProj#readme",
+  "keywords": [],
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "util": "^0.10.3"
+  }
+}
